@@ -1,1 +1,16 @@
+<<<<<<< Updated upstream
 text
+Change done by Sukhman Singh
+=======
+text raj  ki file 
+
+
+
+
+
+Change by Tarun 
+
+
+
+
+>>>>>>> Stashed changes
